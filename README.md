@@ -1,1 +1,3 @@
-# Pramita_Pandit.github.io
+# Pramita Pandit Personal Portfolio
+
+https://PramitaPandit.github.io/personal-portfolio/
